@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="name">
+
+    <test name = "Ani test">
+        <classes>
+            <class name="Config.AddStickersToPhotos"></class>
+        </classes>
+    </test>
+
+</suite>
